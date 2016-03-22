@@ -1,3 +1,3 @@
 Name: Adrienne Young
 City: NYC
-Fave color: Blue
+Favorite color: Blue
